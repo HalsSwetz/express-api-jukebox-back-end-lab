@@ -24,7 +24,6 @@ app.use('/tracks', trackRouter);
 
 
 
-// Routes go here
 
 app.listen(3000, () => {
   console.log('The express app is ready!');
